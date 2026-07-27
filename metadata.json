@@ -1,0 +1,6 @@
+{
+  "name": "Interview Mentor AI",
+  "description": "AI-powered interview practice platform for university students and fresh graduates.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
