@@ -16,7 +16,7 @@ https://interview-mentor-ai.ai.studio
 
 ## GitHub Repository
 
-https://github.com/ayesha-bibi-ab/Interview-Mentor-AI.git
+https://github.com/ayesha-bibi-ab/Interview-Mentor-AI
 ---
 
 # Features
