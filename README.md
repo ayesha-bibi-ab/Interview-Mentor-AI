@@ -16,8 +16,7 @@ https://interview-mentor-ai.ai.studio
 
 ## GitHub Repository
 
-(Add your GitHub repository link here.)
-
+https://github.com/ayesha-bibi-ab/Interview-Mentor-AI.git
 ---
 
 # Features
@@ -92,15 +91,19 @@ Suggested screenshots:
 
 1. Home Page
 <img width="1915" height="877" alt="image" src="https://github.com/user-attachments/assets/fe70e466-23e8-4033-9117-2c18c7384c5f" />
+---
 
 2. Practice Interview Page
 <img width="1723" height="762" alt="image" src="https://github.com/user-attachments/assets/1636bf43-8287-4893-be40-63d635099dc8" />
+---
 
 3. AI Evaluation Results
 <img width="685" height="702" alt="image" src="https://github.com/user-attachments/assets/b8ad27e8-45ee-4048-a00e-cacde0a365d4" />
+---
 
 4. Practice History 
 <img width="1036" height="435" alt="image" src="https://github.com/user-attachments/assets/bc8c3bba-71b1-4574-9085-5346226be2aa" />
+---
 
 5. About Section
 <img width="1831" height="802" alt="image" src="https://github.com/user-attachments/assets/4b015f4d-6fd1-4e98-9383-b3467d4154fa" />
