@@ -1,4 +1,4 @@
-         ## Interview Mentor AI
+## Interview Mentor AI
 
 ## Overview
 
